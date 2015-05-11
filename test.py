@@ -10,6 +10,7 @@ from multiprocessing.dummy import Pool
 import socket
 
 #这个是我的课程设计，做的很简单
+#做一个小测试
     
 root = Tk()
 socket.setdefaulttimeout(3)
