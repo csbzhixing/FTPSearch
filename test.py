@@ -11,6 +11,8 @@ import socket
 
 #这个是我的课程设计，做的很简单
 #做一个小测试
+
+#添加other
     
 root = Tk()
 socket.setdefaulttimeout(3)
